@@ -1,0 +1,11 @@
+torch
+lightning
+torchvision
+torchmetrics
+numpy
+scikit-learn
+matplotlib
+pillow
+tqdm
+ipywidgets
+ipykernel
