@@ -1,0 +1,5 @@
+data/
+data_resized/
+trained_model/
+*.csv
+resnet50_weights.pth
