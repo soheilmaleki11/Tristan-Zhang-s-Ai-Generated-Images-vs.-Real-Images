@@ -53,14 +53,10 @@ Performance may vary slightly due to random initialization and stochastic traini
 │   ├── real/
 │   └── fake/
 │
-│── trained_model/
-│   └── custom_resnet50_trained_weights.pth
-│
 ├── dataset.py
 ├── model.py
 ├── utils.py
 ├── tristan_zhang_ai_generated_images_vs_real_images.ipynb
-├── resnet50_weights.pth
 ├── requirements.txt
 └── README.md
 ```
